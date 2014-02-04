@@ -1,11 +1,11 @@
 # JText Plugin for Joomla!
 
-Replace the phrase {jtext}WORD{/jtext} in the text using Joomla! translations.
+Replace the phrase **{jtext}WORD{/jtext}** in the text using Joomla! translations.
 
 ## Sample
 ###Translation file:
 
-JPREVIOUS="Previous" 
+JPREVIOUS="Previous"--
 JPUBLISHED="Published" 
 JREGISTER="Register" 
 JREQUIRED="Required" 
