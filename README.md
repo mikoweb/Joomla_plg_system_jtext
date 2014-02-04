@@ -5,11 +5,16 @@ Replace the phrase **{jtext}WORD{/jtext}** in the text using Joomla! translation
 ## Sample
 ###Translation file:
 
---JPREVIOUS="Previous"
---JPUBLISHED="Published" 
---JREGISTER="Register" 
---JREQUIRED="Required" 
---JSAVE="Save" 
+-- 
+JPREVIOUS="Previous"
+-- 
+JPUBLISHED="Published" 
+-- 
+JREGISTER="Register" 
+-- 
+JREQUIRED="Required" 
+-- 
+JSAVE="Save" 
 
 ###Excerpt from article:
 
