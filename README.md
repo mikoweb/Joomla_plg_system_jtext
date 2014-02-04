@@ -12,16 +12,12 @@ JREQUIRED="Required"<br />
 JSAVE="Save"<br />
 
 ###Excerpt from article:
-
 in the **{jtext}JPREVIOUS{/jtext}** episode
 
 ###Result:
-
 in the **Previous** episode
 
 
 ## License
-
-**General Public License v3**
-
+**General Public License v3**<br />
 **Copyright (C) 2014 Rafał Mikołajun**
