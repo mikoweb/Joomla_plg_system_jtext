@@ -3,7 +3,7 @@
 Replace the phrase {jtext}WORD{/jtext} in the text using Joomla! translations.
 
 ## Sample
-**Translation file:*
+**Translation file:**
 
 JPREVIOUS="Previous"
 JPUBLISHED="Published"
